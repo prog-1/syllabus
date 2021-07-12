@@ -1,5 +1,8 @@
 # Programming I Syllabus
 
+This page rendered as HTML:
+[http://prog-1.github.io/syllabus/](http://prog-1.github.io/syllabus/).
+
 ## Instructors
 
 * Jaroslavs Samčuks *(Software Engineer)*
