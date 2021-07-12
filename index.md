@@ -1,6 +1,6 @@
 # Programming I Syllabus
 
-## Instructors (#instructors)
+## Instructors
 
 * Jaroslavs Samčuks *(Software Engineer)*
 
