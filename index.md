@@ -40,7 +40,51 @@ You may provide an anonymous feedback with the instructors on any matter using
 
 # Description
 
+Learn and explore the fascinating world of computer programming. The goal of
+the course is to help students develop programming, mathematical and
+problem-solving skills. The course may also inspire some students to choose
+programming as their future career.
+
+By the end of the course, a student is expected
+
+1. to analyze simple daily work processes
+2. to see automation possibilities in the process or their parts
+3. to describe the problem and its desired solution using specification of the
+   software requirements
+4. to implement solutions to simple problems.
+
 # Overview
+
+The course covers the following topics and more:
+
+ * introduction to computers
+ * file and directory manipulation
+ * version control systems
+ * the structure of a program
+ * control structures
+ * basic data types and structures
+ * functions
+ * modules
+ * software testing
+ * binary logic
+ * sets
+ * machine representation of data structures
+ * input/output interfaces
+ * files and file systems
+ * databases
+ * command line interfaces
+ * software development models
+ * documentation
+ * algorithm complexity
+ * machine learning
+ * security
+ * web applications
+ * user intefaces
+ * mobile development
+ * cross compilation
+
+During the course we will use [the Go programming language](https://golang.org)
+as a tool to teach programming concepts.
 
 # Assignments
 
