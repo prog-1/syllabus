@@ -84,6 +84,32 @@ The course covers the following topics and more:
 During the course we will use [the Go programming language](https://golang.org)
 as a tool to teach programming concepts.
 
+# Prerequisites
+
+Course materials are hosted from [GitHub](https://github.com/). Students have
+to [create](https://github.com/join) (or use an existing one) a GitHub account
+and share the account name with the course instructors.
+
+Furthermore, the following software is required for participating in the
+course:
+
+ * [git+bash](https://git-scm.com/downloads): Git is a version control
+   system. Bash is a Unix shell. Bash needs to be installed together with Git
+   in Windows operating system. You don't need to install Bash if you are using
+   Linux or Mac OS operating systems. For installation instructions, check [this
+   video](https://www.youtube.com/watch?v=06_FZjebjEE).
+ * [Go programming language distribution](https://golang.org/): Go is a
+   programming language. For installation instructions, check [this
+   video](https://www.youtube.com/watch?v=MsucQCV-0x0).
+*  [Visual Studio Code](https://code.visualstudio.com/): Visual Studio Code
+   is a code editor. [Go
+   extension](https://marketplace.visualstudio.com/items?itemName=golang.go)
+   has to be installed from the Visual Studio Code. Check [the
+   video](https://www.youtube.com/watch?v=hPhEB0bUQkc) for installation instructions.
+
+Furthermore, students exercise their file and directory manipulation skills
+using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
+
 # Assignments
 
 # Projects
