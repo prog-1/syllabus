@@ -5,15 +5,13 @@ This page rendered as HTML:
 
 ## Instructors
 
-* Jaroslavs Samčuks *(Software Engineer)*
-
+Jaroslavs Samčuks *(Software Engineer)*
  * **Email**: [yarcat@gmail.com](mailto:yarcat@gmail.com)
  * **Github**: [@yarcat](https://github.com/yarcat)
- * **Telegram**: [@j_yarcat](https://t.me/j_yarcat)
+ * **Telegram**: [@j\_yarcat](https://t.me/j_yarcat)
  * **LinkedIn**: [yaroslavsamchuk](https://www.linkedin.com/in/yaroslavsamchuk/)
 
-* Pāvels Zaičenkovs *(PhD, Software Engineer)*
-
+Pāvels Zaičenkovs *(PhD, Software Engineer)*
  * **Email**: [zaichenkov@gmail.com](mailto:zaichenkov@gmail.com)
  * **Github**: [@zayac](https://github.com/zayac)
  * **Telegram**: [@zaichenkov](https://t.me/zaichenkov)
