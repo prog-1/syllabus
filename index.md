@@ -92,4 +92,14 @@ as a tool to teach programming concepts.
 
 # Grading
 
+Student's final grade is calculated as a weighted total itemized as follows:
+
+ * Homework and class assignments = 30%
+ * Midterm exams = 30%
+ * Final exam = 30%
+ * Lighting talks = 10%
+
+Every student receives a URL to a spreadsheet containing their intermediate
+grades.
+
 # Resources
