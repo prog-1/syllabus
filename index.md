@@ -1,7 +1,13 @@
-# Programming I Syllabus
-
+<!--
 This page rendered as HTML:
-[http://prog-1.github.io/syllabus/](http://prog-1.github.io/syllabus/).
+http://prog-1.github.io/syllabus/
+
+To render pages locally, run
+bundle install
+bundle exec jekyll serve
+-->
+
+# Programming I Syllabus
 
 ## Instructors
 
@@ -115,6 +121,13 @@ using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 # Projects
 
 # Lightning Talks
+
+During the course students are required to deliver 5 minute lighting talks (in
+a presentation format) during a lesson on a predefined topic.
+
+The topic for the first set of lighting talks are programming languages. The
+students should select a programming language and sign up for the presentation
+using a table in [this page](talks/index.md).
 
 # Grading
 
