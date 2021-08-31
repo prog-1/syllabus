@@ -1,62 +1,10 @@
 # Lighting talks schedule
 
-The page contains a lighting talks schedule.
+The page contains a lighting talks schedule. You may select any topic related
+to programming for the lightning talk. If you are out of ideas, you may select
+a programming language as a topic for the lightning talk. [This
+list](https://madnight.github.io/githut/#/pull_requests/2021/2) contains the
+top 50 languages used in GitHub.
 
-## Programming languages
-
-A list of programming languages is taken from
-[here](https://madnight.github.io/githut/#/pull_requests/2021/2). The list
-contains the top 50 languages used in GitHub.
-
-| Programming language | Student's GitHub account | Presentation Date |
-| -------------------- | ------------------------ | ----------------- |
-| C                    |                          |                   |
-| C#                   |                          |                   |
-| C++                  |                          |                   |
-| Clojure              |                          |                   |
-| CoffeeScript         |                          |                   |
-| Common Lisp          |                          |                   |
-| Coq                  |                          |                   |
-| Dart                 |                          |                   |
-| DM                   |                          |                   |
-| Elixir               |                          |                   |
-| Elm                  |                          |                   |
-| Emacs Lisp           |                          |                   |
-| Erlang               |                          |                   |
-| F#                   |                          |                   |
-| Fortran              |                          |                   |
-| Go                   |                          |                   |
-| Groovy               |                          |                   |
-| Haskell              |                          |                   |
-| Java                 |                          |                   |
-| JavaScript           |                          |                   |
-| Jsonnet              |                          |                   |
-| Julia                |                          |                   |
-| Kotlin               |                          |                   |
-| Lua                  |                          |                   |
-| MATLAB               |                          |                   |
-| NASL                 |                          |                   |
-| Objective-C          |                          |                   |
-| Objective-C++        |                          |                   |
-| OCaml                |                          |                   |
-| Perl                 |                          |                   |
-| PHP                  |                          |                   |
-| PowerShell           |                          |                   |
-| Puppet               |                          |                   |
-| PureScript           |                          |                   |
-| Python               |                          |                   |
-| R                    |                          |                   |
-| Roff                 |                          |                   |
-| Ruby                 |                          |                   |
-| Rust                 |                          |                   |
-| Scala                |                          |                   |
-| Shell                |                          |                   |
-| Smalltalk            |                          |                   |
-| Swift                |                          |                   |
-| SystemVerilog        |                          |                   |
-| TSQL                 |                          |                   |
-| TypeScript           |                          |                   |
-| Vala                 |                          |                   |
-| Vim script           |                          |                   |
-| Visual Basic .NET    |                          |                   |
-| WebAssembly          |                          |                   |
+| Topic | Student's GitHub account | Presentation Date |
+| ----- | ------------------------ | ----------------- |
