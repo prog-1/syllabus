@@ -122,7 +122,7 @@ using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 During the course students are required to deliver 5 minute lighting talks (in
 a presentation format) during a lesson on a topic selected by a student. The
 students should sign up for the presentation using a table in [this
-page](talks/index.md).
+page](talks.html).
 
 # Grading
 
