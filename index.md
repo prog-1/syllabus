@@ -27,10 +27,7 @@ Pāvels Zaičenkovs *(PhD, Software Engineer)*
 
 ### You are a student and have a question related to course content
 
-Use a chat: [![Gitter](https://badges.gitter.im/prog-1-2021/discussions.svg)](https://gitter.im/prog-1-2021/discussions)
-
- * It sends message digests to people who aren't active in the room, so feel
-   free to ask a question even if no one's around.
+Use a chat in MS Teams.
 
 ### You are a student and have a question **not** related to the course content, or you are a parent
 
@@ -135,8 +132,5 @@ Student's final grade is calculated as a weighted total itemized as follows:
  * Midterm exams = 30%
  * Final exam = 30%
  * Lighting talks = 10%
-
-Every student receives a URL to a spreadsheet containing their intermediate
-grades.
 
 # Resources
