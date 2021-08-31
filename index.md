@@ -113,7 +113,7 @@ course:
 Furthermore, students exercise their file and directory manipulation skills
 using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 
-# Syllabus
+# Syllabus (Semester #1)
 
 | Date                   | Topic                                          |
 | ---------------------- | ---------------------------------------------- |
