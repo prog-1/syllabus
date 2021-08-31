@@ -113,6 +113,43 @@ course:
 Furthermore, students exercise their file and directory manipulation skills
 using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 
+# Syllabus
+
+| Date                   | Topic                                          |
+| ---------------------- | ---------------------------------------------- |
+| Thursday, September 2  | Introduction to Software Engineering           |
+| Monday, September 6    | File and directory manipulation                |
+| Thursday, September 9  | Programming environment setup                  |
+| Monday, September 13   | Introduction to IDE (VS Code)                  |
+| Thursday, September 16 | Introduction to version control (Git & Github) |
+| Monday, September 20   | Variables; basic arithmetic operations         |
+| Thursday, September 23 | Program structure. Github assignments.         |
+| Monday, September 27   | If conditions                                  |
+| Thursday, September 30 | Scopes                                         |
+| Monday, October 4      | For loops without range                        |
+| Thursday, October 7    | **Mid-term exam 1**                            |
+| Monday, October 11     | Slices                                         |
+| Thursday, October 14   | Slices                                         |
+| Monday, October 18     |                                                |
+| Thursday, October 21   |                                                |
+| Monday, October 25     | For-range loop                                 |
+| Thursday, October 28   | For-range loop                                 |
+| Monday, November 1     | Slice tricks                                   |
+| Thursday, November 4   | Slice tricks                                   |
+| Monday, November 8     | Arrays                                         |
+| Thursday, November 11  | Arrays                                         |
+| Monday, November 15    | **Mid-term exam 2**                            |
+| Thursday, November 18  |                                                |
+| Monday, November 22    | Functions                                      |
+| Thursday, November 25  | Functions                                      |
+| Monday, November 29    | Strings                                        |
+| Thursday, December 2   | Strings                                        |
+| Monday, December 6     | Basic struct (for table-based testing)         |
+| Thursday, December 9   | Table-based testing                            |
+| Monday, December 13    | Practice                                       |
+| Thursday, December 16  | Practice                                       |
+| Monday, December 20    | **Final exam**                                 |
+
 # Assignments
 
 # Projects
