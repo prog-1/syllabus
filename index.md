@@ -113,7 +113,7 @@ course:
 Furthermore, students exercise their file and directory manipulation skills
 using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 
-# Syllabus (Semester #1)
+# Outline (Semester #1)
 
 | Date                   | Topic                                          |
 | ---------------------- | ---------------------------------------------- |
@@ -127,19 +127,19 @@ using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 | Monday, September 27   | If conditions                                  |
 | Thursday, September 30 | Scopes                                         |
 | Monday, October 4      | For loops without range                        |
-| Thursday, October 7    | **Mid-term exam 1**                            |
+| Thursday, October 7    | **Mid-term test 1**                            |
 | Monday, October 11     | Slices                                         |
 | Thursday, October 14   | Slices                                         |
-| Monday, October 18     |                                                |
-| Thursday, October 21   |                                                |
+| Monday, October 18     | 🧘                                             |
+| Thursday, October 21   | 🧘                                             |
 | Monday, October 25     | For-range loop                                 |
 | Thursday, October 28   | For-range loop                                 |
 | Monday, November 1     | Slice tricks                                   |
 | Thursday, November 4   | Slice tricks                                   |
 | Monday, November 8     | Arrays                                         |
 | Thursday, November 11  | Arrays                                         |
-| Monday, November 15    | **Mid-term exam 2**                            |
-| Thursday, November 18  |                                                |
+| Monday, November 15    | **Mid-term test 2**                            |
+| Thursday, November 18  | 🇱🇻                                           |
 | Monday, November 22    | Functions                                      |
 | Thursday, November 25  | Functions                                      |
 | Monday, November 29    | Strings                                        |
@@ -166,7 +166,7 @@ page](talks.html).
 Student's final grade is calculated as a weighted total itemized as follows:
 
  * Homework and class assignments = 30%
- * Midterm exams = 30%
+ * Midterm tests = 30%
  * Final exam = 30%
  * Lighting talks = 10%
 
