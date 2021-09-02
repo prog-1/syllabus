@@ -117,7 +117,7 @@ using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 
 | Date                   | Topic                                          |
 | ---------------------- | ---------------------------------------------- |
-| Thursday, September 2  | Introduction to programming                    |
+| Thursday, September 2  | [Introduction to programming](slides/01_introduction.pdf) |
 | Monday, September 6    | File and directory manipulation                |
 | Thursday, September 9  | Programming environment setup                  |
 | Monday, September 13   | Introduction to IDE (VS Code)                  |
