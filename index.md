@@ -171,3 +171,5 @@ Student's final grade is calculated as a weighted total itemized as follows:
  * Lighting talks = 10%
 
 # Resources
+
+ * [Google Meet meeting](meet.google.com/qor-xwrz-owy)
