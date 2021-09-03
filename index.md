@@ -172,4 +172,4 @@ Student's final grade is calculated as a weighted total itemized as follows:
 
 # Resources
 
- * [Google Meet meeting](meet.google.com/qor-xwrz-owy)
+ * [Google Meet meeting](http://meet.google.com/qor-xwrz-owy)
