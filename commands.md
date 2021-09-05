@@ -13,3 +13,4 @@
 | Creates a directory                                         | mkdir             | mkdir            | `mkdir directory`                       |
 | Removes a directory                                         | rmdir             | rm -r            | `rm -r directory`                       |
 | Deletes a file                                              | del               | rm               | `rm thisfile.txt`                       |
+| View content of a file                                      | type              | cat              | `cat thisfile.txt`                      |
