@@ -1,6 +1,6 @@
 # Basic Git Commands
 
-The exercise are to practice basic Git commands.  Follow the instructions
+The exercise is to practice basic Git commands.  Follow the instructions
 below to complete the exercise.
 
 1. Initialize an empty repository.
