@@ -119,8 +119,8 @@ using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 | ---------------------- | ---------------------------------------------- |
 | Thursday, September 2  | [Introduction to programming](slides/01_introduction.pdf) |
 | Monday, September 6    | File and directory manipulation ([Command Line Cheat Sheet](commands.html)) |
-| Thursday, September 9  | [Introduction to version control (Git & Github)](slides/03_vcs.pdf) ([Git Cheat Sheet](git.html))|
-| Monday, September 13   | Programming environment setup                  |
+| Thursday, September 9  | [Introduction to version control (Git)](slides/03_vcs.pdf) ([Git Cheat Sheet](git.html))|
+| Monday, September 13   | [Introduction to version control (Git & GitHub)](slides/03_vcs.pdf) ([Git Cheat Sheet](git.html))|
 | Thursday, September 16 | Introduction to IDE (VS Code)                  |
 | Monday, September 20   | Variables; basic arithmetic operations         |
 | Thursday, September 23 | Program structure. Github assignments.         |
