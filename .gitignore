@@ -2,5 +2,6 @@
 Gemfile.lock
 _site
 vendor
+.DS_Store
 
 
