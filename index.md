@@ -119,13 +119,13 @@ using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 | ---------------------- | ---------------------------------------------- |
 | Thursday, September 2  | [Introduction to programming](slides/01_introduction.pdf) |
 | Monday, September 6    | File and directory manipulation ([Command Line Cheat Sheet](commands.html)) |
-| Thursday, September 9  | [Introduction to version control (Git)](slides/03_vcs.pdf) ([Git Cheat Sheet](git.html))|
+| Thursday, September 9  | [Introduction to version control (Git)](slides/03_vcs.pdf) ([Git Cheat Sheet](git.html)) ([assignment](https://github.com/prog-1/git-basics)|
 | Monday, September 13   | [Introduction to version control (Git & GitHub)](slides/03_vcs.pdf) ([Git Cheat Sheet](git.html))|
 | Thursday, September 16 | Introduction to IDE (VS Code)                  |
-| Monday, September 20   | Variables; basic arithmetic operations         |
+| Monday, September 20   | Variables; basic arithmetic operations ([assignment](https://github.com/prog-1/unit-conversions))|
 | Thursday, September 23 | Program structure. Github assignments.         |
-| Monday, September 27   | If conditions                                  |
-| Thursday, September 30 | Scopes                                         |
+| Monday, September 27   | [If conditions](https://github.com/prog-1/lesson08) ([assignment](https://github.com/prog-1/conditions))|
+| Thursday, September 30 | [If conditions](https://github.com/prog-1/lesson09)|
 | Monday, October 4      | For loops without range                        |
 | Thursday, October 7    | **Mid-term test 1**                            |
 | Monday, October 11     | Slices                                         |
