@@ -127,8 +127,8 @@ using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 | Monday, September 27   | [If conditions](https://github.com/prog-1/lesson08) ([assignment](https://github.com/prog-1/conditions))|
 | Thursday, September 30 | [If conditions](https://github.com/prog-1/lesson09)|
 | Monday, October 4      | For loops without range                        |
-| Thursday, October 7    | **Mid-term test 1**                            |
-| Monday, October 11     | Slices                                         |
+| Thursday, October 7    | For loops without range                        |
+| Monday, October 11    | **Mid-term test 1**                             |
 | Thursday, October 14   | Slices                                         |
 | Monday, October 18     | 🧘                                             |
 | Thursday, October 21   | 🧘                                             |
