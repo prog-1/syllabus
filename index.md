@@ -126,7 +126,7 @@ using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 | Thursday, September 23 | Program structure. Github assignments.         |
 | Monday, September 27   | [If conditions](https://github.com/prog-1/lesson08) ([assignment](https://github.com/prog-1/conditions))|
 | Thursday, September 30 | [If conditions](https://github.com/prog-1/lesson09)|
-| Monday, October 4      | [For loops without range](https://github.com/prog-1/lesson10) ([assignment](https://github.com/prog-1/for-loops)|
+| Monday, October 4      | [For loops without range](https://github.com/prog-1/lesson10) ([assignment](https://github.com/prog-1/for-loops))|
 | Thursday, October 7    | For loops without range                        |
 | Monday, October 11    | [**Mid-term test 1**](https://github.com/topics/prog-1-test-1) |
 | Thursday, October 14    | For loops without range                        |
@@ -141,7 +141,7 @@ using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 | Monday, November 15    | Arrays and slices                            |
 | Thursday, November 18  | 🇱🇻                                           |
 | Monday, November 22    | Arrays and slices                            |
-| Thursday, November 25  | **Mid-term test-2**                                      |
+| Thursday, November 25  | [**Mid-term test-2**](https://github.com/topics/prog-1-test-2)                                      |
 | Monday, November 29    | [Strings](https://github.com/prog-1/strings)                                        |
 | Thursday, December 2   | Strings                                        |
 | Monday, December 6     | Strings         |
