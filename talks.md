@@ -12,7 +12,13 @@ top 50 languages used in GitHub.
 | Connecting over SSH   | [yarcat@](https://github.com/yarcat) | 24.09.2021        |
 | ABL                   | [D0LeD](https://github.com/D0LeD)    | 27.09.2021        |
 | Programming paradigms | [AndrejCeremnih](https://github.com/AndrejCeremnih) | 30.09.2021        |
-|                       | [Polka228](https://github.com/Polka228) | 04.10.2021     |
+| Working with GitHub in VS Code | [Polka228](https://github.com/Polka228) | 04.10.2021     |
+| Esoteric programming languages | [vmaksimkina](https://github.com/vmaksimkina) | 07.10.2021 |
+| GitHub extension in VS Code | [Barash456](https://github.com/Barash456) | 14.10.2021 |
+| Python programming language | [daniilsputrans](https://github.com/daniilsputrans) | 01.11.2021 |
+| Git/Github workflow from VS Code| [denissmaksimkins](https://github.com/denissmaksimkins) | 01.11.2021 |
+| fmt.Printf | [littleunidragon](https://github.com/littleunidragon) | 04.11.2021 |
+| Snippets in VS Code | [aniscenko](https://github.com/aniscenko) | 08.11.2021 |
 |                       | [Sp0ozy](https://github.com/Sp0ozy) | 22.11.2021     |
 
 
