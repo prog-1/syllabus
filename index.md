@@ -126,26 +126,26 @@ using [file://maniac](https://born-frustrated.itch.io/filemaniac) game.
 | Thursday, September 23 | Program structure. Github assignments.         |
 | Monday, September 27   | [If conditions](https://github.com/prog-1/lesson08) ([assignment](https://github.com/prog-1/conditions))|
 | Thursday, September 30 | [If conditions](https://github.com/prog-1/lesson09)|
-| Monday, October 4      | For loops without range                        |
+| Monday, October 4      | [For loops without range](https://github.com/prog-1/lesson10) ([assignment](https://github.com/prog-1/for-loops)|
 | Thursday, October 7    | For loops without range                        |
-| Monday, October 11    | **Mid-term test 1**                             |
-| Thursday, October 14   | Slices                                         |
+| Monday, October 11    | [**Mid-term test 1**](https://github.com/topics/prog-1-test-1) |
+| Thursday, October 14    | For loops without range                        |
 | Monday, October 18     | 🧘                                             |
 | Thursday, October 21   | 🧘                                             |
-| Monday, October 25     | For-range loop                                 |
-| Thursday, October 28   | For-range loop                                 |
-| Monday, November 1     | Slice tricks                                   |
-| Thursday, November 4   | Slice tricks                                   |
-| Monday, November 8     | Arrays                                         |
-| Thursday, November 11  | Arrays                                         |
-| Monday, November 15    | **Mid-term test 2**                            |
+| Monday, October 25     | 🧘                                 |
+| Thursday, October 28   | 🧘                                  |
+| Monday, November 1     | [Functions and table-based testing](https://github.com/prog-1/functions)                                   |
+| Monday, November 4     | [Arrays and slices](https://github.com/prog-1/slices)                                        |
+| Monday, November 8     | Arrays and slices                                        |
+| Thursday, November 11  | Arrays and slices                                        |
+| Monday, November 15    | Arrays and slices                            |
 | Thursday, November 18  | 🇱🇻                                           |
-| Monday, November 22    | Functions                                      |
-| Thursday, November 25  | Functions                                      |
-| Monday, November 29    | Strings                                        |
+| Monday, November 22    | Arrays and slices                            |
+| Thursday, November 25  | **Mid-term test-2**                                      |
+| Monday, November 29    | [Strings](https://github.com/prog-1/strings)                                        |
 | Thursday, December 2   | Strings                                        |
-| Monday, December 6     | Basic struct (for table-based testing)         |
-| Thursday, December 9   | Table-based testing                            |
+| Monday, December 6     | Strings         |
+| Thursday, December 9   | Strings                            |
 | Monday, December 13    | Practice                                       |
 | Thursday, December 16  | Practice                                       |
 | Monday, December 20    | **Final exam**                                 |
